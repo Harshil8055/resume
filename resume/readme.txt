@@ -7,4 +7,5 @@ Files and folder
 Technologies used:
 HTML,CSS
 
+Link to access the web page: https://harshil8055.github.io/resume/resume/resume.html
  
